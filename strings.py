@@ -1,6 +1,6 @@
 # New comment
 # Another comment
-import os
+# import os
 
 print('Hello   World')
 message = 'Hello World'
